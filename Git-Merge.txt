@@ -1,1 +1,3 @@
+git merge
 
+When multiple people are working on a single project, they create multiple branches to work on their on own task individually. Eventually when the task is complete, their code is merged to the main branch of the project. This practice is also followed when the teams keep their codebase separate for different stages like development, staging and production. They create branches to keep code separate in these branches.
