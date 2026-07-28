@@ -1,1 +1,5 @@
-git rebase 
+Git rebase 
+working on git rebase on the main branch to perform git rebase on the feature branch later.
+ 
+Making changes in the feature branch
+Added some more changes for rebase
